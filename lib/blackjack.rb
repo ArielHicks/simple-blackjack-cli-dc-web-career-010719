@@ -60,8 +60,8 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-  def runner(card_total)
+  def runner
     # code runner here
     welcome
-  
+
 end
